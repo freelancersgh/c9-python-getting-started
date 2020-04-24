@@ -13,3 +13,5 @@ else:
 # I set earlier in my code
 if honour_roll:
 	print('You made honour roll')
+else:
+	print("Try Next Year")
